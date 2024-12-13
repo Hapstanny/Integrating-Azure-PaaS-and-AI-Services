@@ -1,3 +1,5 @@
+
+
 internal sealed class AppConfig
 {
     /// <summary>
